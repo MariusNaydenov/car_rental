@@ -18,3 +18,5 @@ Welcome to our Car Rental Website project! This online platform provides users w
 - **Frontend**: React JS
 - **Deployment**: Vercel
 
+![car-rental-mocha-two vercel app_](https://github.com/MariusNaydenov/car_rental/assets/147935970/d4d1112a-6e65-46b7-af12-d9e9ab6d22b5)
+
