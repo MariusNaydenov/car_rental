@@ -1,0 +1,12 @@
+.main {
+    background-image: url("/src/Images/chooseUs-bg.png");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
